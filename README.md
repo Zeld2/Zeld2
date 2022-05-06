@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Zeld2
 - 👀 I’m interested in becoming a developer and helping the world to be a better place.
-- 🌱 I’m currently learning JavaScript, ReactJS, NodeJS and MongoDB.
+- 🌱 I’m currently learning .NET and C#.
 - 📫 My email is: theudelci@gmail.com
 
 <!---
