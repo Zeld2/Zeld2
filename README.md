@@ -5,7 +5,7 @@
 <h2> Sobre mim </h2>
 
 - 💻 Apaixonado por tecnologia e motivado em transformar o mundo em um lugar melhor.
-- 🔭 No momento estou desenvolvendo meus conhecimentos em: <br> C# | .NET | Java | Data Base SQL | Rest API | HTML | CSS | ReactJS | NodeJS </br>
+- 🔭 No momento estou desenvolvendo meus conhecimentos em: <br> C# | .NET | Data Base SQL | Rest API | NodeJS | HTML | CSS | ReactJS  </br>
 
 ##
 
